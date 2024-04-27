@@ -1,5 +1,5 @@
 # Site-Opio
-// A Main possui os arquivos em html, css, as imagens e as fontes usadas no site em um arquivo .rar, então para visualizar o site da melhor forma descompacte o arquivo antes e então abra o index.html para visualizar o projeto completo .//
+// A Main possui os arquivos em html, css, as imagens e as fontes usadas no site em um arquivo .rar, então para visualizar o site da melhor forma descompacte o arquivo antes e então abra o index.html para visualizar o projeto completo//
 
 Este projeto consiste no desenvolvimento do site do grupo musical Ópio, realizado pelos alunos Arthur Francisco de LIma e Felipe Takashi Vieira Morota, como parte do curso de Desenvolvimento de Software Multiplataforma da Fatec Zona Leste.
 
